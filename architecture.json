@@ -1,0 +1,62 @@
+{
+  "book_id": "medieval-arabic-epic-narrative-exile-diaspora",
+  "title": "The Amnesiac Sea of Sand",
+  "tagline": "A fugitive assassin carries the memory of a murdered prince into the desert, where the land itself bears witness to his exile and the price of a forgotten war.",
+  "target_words": 60070,
+  "actual_words": 60070,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Weight of Vengeance",
+    "Memory and Oblivion",
+    "Exile as Transformation",
+    "The Desert as Witness"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Sand Drinks the Blood",
+      "words": 6674
+    },
+    {
+      "ch": 2,
+      "title": "A Procession of Anchored Shadows",
+      "words": 6674
+    },
+    {
+      "ch": 3,
+      "title": "The Wound's Perpetual Scream",
+      "words": 6674
+    },
+    {
+      "ch": 4,
+      "title": "A Scratch Upon the Immense Flank",
+      "words": 6674
+    },
+    {
+      "ch": 5,
+      "title": "The Drumskin of the Wadi",
+      "words": 6674
+    },
+    {
+      "ch": 6,
+      "title": "The Leopardkeeper's Invitation",
+      "words": 6674
+    },
+    {
+      "ch": 7,
+      "title": "The Canyon's Held Breath",
+      "words": 6674
+    },
+    {
+      "ch": 8,
+      "title": "The Scent of Drowning",
+      "words": 6674
+    },
+    {
+      "ch": 9,
+      "title": "The Amnesiac Sea",
+      "words": 6674
+    }
+  ]
+}
